@@ -1,0 +1,15 @@
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.exe
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.deps.json
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.dll
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\ref\MySuperBank.dll
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\bin\Debug\net6.0\MySuperBank.pdb
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.dll
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
+D:\VTC\4.OOP\FileCode\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache

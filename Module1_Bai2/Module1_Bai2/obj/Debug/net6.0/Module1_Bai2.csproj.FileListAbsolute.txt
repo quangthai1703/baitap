@@ -1,0 +1,15 @@
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\Module1_Bai2.exe
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\Module1_Bai2.deps.json
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\Module1_Bai2.runtimeconfig.json
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\Module1_Bai2.dll
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\ref\Module1_Bai2.dll
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\bin\Debug\net6.0\Module1_Bai2.pdb
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.csproj.AssemblyReference.cache
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.AssemblyInfoInputs.cache
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.AssemblyInfo.cs
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.csproj.CoreCompileInputs.cache
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.dll
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\ref\Module1_Bai2.dll
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.pdb
+D:\VTC\4.OOP\FileCode\Module1_Bai2\Module1_Bai2\obj\Debug\net6.0\Module1_Bai2.genruntimeconfig.cache
